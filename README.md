@@ -4,7 +4,7 @@
 Welcome to **Pavi**, a GitHub-hosted webpage! 🚀
 
 ## 🔗 Live Website
-Check out the live site here: [Pavi GitHub Page](https://sanjay-sp-86.github.io/Pavi/)
+Check out the live site here: [live Page](https://sanjay-sp-86.github.io/Pavi/)
 
 ## 📌 About
 This project is a simple static website hosted using GitHub Pages. It serves as a showcase or portfolio page with a clean and responsive design.
