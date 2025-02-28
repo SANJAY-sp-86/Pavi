@@ -25,5 +25,5 @@ This project is open-source under the [MIT License](LICENSE).
 Contributions are welcome! If you find any issues or have improvements, feel free to fork the repository and create a pull request.
 
 ---
-⭐ If you like this project, consider giving it a star on GitHub!
+⭐ If you like this project, consider giving it a star on GitHub!.
 
