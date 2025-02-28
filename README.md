@@ -15,17 +15,6 @@ This project is a simple static website hosted using GitHub Pages. It serves as 
 - `script.js` - JavaScript for interactions (if any).
 - `assets/` - Folder for images and other resources.
 
-## 🛠️ How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Sanjay-SP-86/Pavi.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd Pavi
-   ```
-3. Open `index.html` in a browser.
-
 ## 🎨 Customization
 Feel free to modify the HTML, CSS, and JS files to suit your needs. You can update the styles in `style.css` and tweak functionality in `script.js`.
 
